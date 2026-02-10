@@ -30,6 +30,9 @@ https://github.com/triocks/npc-architect/releases/latest/download/module.json
 1. Open the Actors Tab and click the Architect button.
 2. Do your thing.  Submit (Architect NPC) and await confirmation.
 3. Check the NPC Architect folder.
+
+**Feel free to reach out on discord (pbaiani) or log an issue here if you have one.  These are tools (and I have many more I will eventually submit) that I have been building and using in my own foundry sessions for some time.**
+
 ## Support the Project
 If this tool saves you prep time, consider supporting the continued development!
 
