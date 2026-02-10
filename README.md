@@ -1,4 +1,4 @@
-**NPC Architect (PF2e)**
+## NPC Architect (PF2e)
 
 **NPC Architect** is a high-performance creation suite for Foundry VTT (PF2e) that leverages Gemini AI to bridge the gap between imagination and mechanical execution. It features native support for the World of Greyhawk.
 
